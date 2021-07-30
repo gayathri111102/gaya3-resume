@@ -5,7 +5,7 @@
 <body>
 
 <!-- Title -->
-<h1 align="center">Hello World
+<h1 align="center">Hello everyone!!!
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"
        width="30px">
   </h2></h1>
