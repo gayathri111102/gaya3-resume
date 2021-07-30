@@ -9,11 +9,7 @@
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"
        width="30px">
   </h1>
-  <h2 align="center">I am B Gayathri pursuing B.Tech., Information Technology at Sri Sai Ram Institute of Technology.</h2>
- 
- 
-<!-- Quote -->
-<p align="center">I would like to change the World but they won't give me the source code
+  <p align="center">I am B Gayathri pursuing B.Tech., Information Technology at Sri Sai Ram Institute of Technology.</h2>
  
   <!-- Social Network -->
 <h1 align="center">
@@ -92,7 +88,7 @@
        alt='Lunox's favorite languages" />
 </a>
  
-<h2 align="center">Certifications<br>
+<h2 align="center">Certifications</h2><br>
                   <li> <ol>Introduction to Cyber Security</ol><br>
                   <ol>CISCO</ol><br>
                   <ol>FSPRIME</ol><br>
