@@ -5,10 +5,11 @@
 <body>
 
 <!-- Title -->
-<h1 align="center">Hello everyone!!!
+<h1 align="center">Hello everyone!!
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"
        width="30px">
-  </h2></h1>
+  </h1>
+  <h2 align="center">I am B Gayathri pursuing B.Tech., Information Technology at Sri Sai Ram Institute of Technology.</h2>
  
  
 <!-- Quote -->
@@ -47,7 +48,7 @@
  
 <!-- I do add this "&nbsp;" because I can't center the GIFT, let me know if you know how do it -->
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/55005374/95673501-37764680-0b66-11eb-8ee1-d4f4a2b285d9.gif)
+![ezgif com-gif-maker](https://blog.commlabindia.com/wp-content/uploads/2019/07/animated-gifs-corporate-training.gif)
 
 &nbsp;
  
@@ -91,10 +92,15 @@
        alt='Lunox's favorite languages" />
 </a>
  
-<a href="https://github.com/Lunox-code">
-  <img align="center"
-       src="https://github-readme-stats.vercel.app/api?username=Lunox-code&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nord" />
-</a>
+<h2 align="center">Certifications<br>
+                  <li> <ol>Introduction to Cyber Security</ol><br>
+                  <ol>CISCO</ol><br>
+                  <ol>FSPRIME</ol><br>
+                  <ol>Completed internship at Raj Square Charity Foundations</ol><br>
+                  <ol>Completed internship at MIT Square</ol><br>
+                  <ol>Python Essentials</ol><br>
+                  </h2>
+                                                                                                                                            
 </body>
 </html>
 
