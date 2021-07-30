@@ -89,7 +89,7 @@
 </a>
  
 <h2 align="center">Certifications</h2><br>
-                
+                  <li>
                   <ol>CISCO</ol><br>
                   <ol>FSPRIME</ol><br>
                   <ol>Completed internship at Raj Square Charity Foundations</ol><br>
