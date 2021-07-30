@@ -89,14 +89,12 @@
 </a>
  
 <h2 align="center">Certifications</h2><br>
-                  <li>
-                  <ol>CISCO</ol><br>
-                  <ol>FSPRIME</ol><br>
-                  <ol>Completed internship at Raj Square Charity Foundations</ol><br>
-                  <ol>Completed internship at MIT Square</ol><br>
-                  <ol>Python Essentials</ol><br>
-                  </li>
-                  </h2>
+                  <li>CISCO</li><br>
+                  <li>FSPRIME</li><br>
+                  <li>Completed internship at Raj Square Charity Foundations</li><br>
+                  <li>Completed internship at MIT Square</li><br>
+                  <li>Python Essentials</li><br>
+ 
                                                                                                                                             
 </body>
 </html>
