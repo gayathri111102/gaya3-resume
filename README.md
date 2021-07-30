@@ -95,6 +95,7 @@
                   <ol>Completed internship at Raj Square Charity Foundations</ol><br>
                   <ol>Completed internship at MIT Square</ol><br>
                   <ol>Python Essentials</ol><br>
+                  </li>
                   </h2>
                                                                                                                                             
 </body>
